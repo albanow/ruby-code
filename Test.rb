@@ -42,7 +42,7 @@ else
 end
 
 if cond_1 and cond_2 and cond_3
-	puts "TODO BIEN"
+	puts "ALL GOOD"
 else
-	puts "ALGO MAL"
+	puts "SOMETHING REALLY BAD"
 end
